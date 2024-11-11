@@ -1,0 +1,25 @@
+body {
+  text-align: center;
+}
+.card_wrap {
+  display: flex;
+  justify-content: center;
+  margin-top: 2rem;
+}
+.card {
+  max-width: 300px;
+  margin: 0px 10px;
+}
+.card_img {
+  width: 70%;
+}
+.card_title {
+  font-size: 1.3rem;
+}
+.card_button {
+  padding: 5px 20px;
+  border: 1px solid grey;
+  background-color: white;
+  border-radius: 10px;
+  cursor: pointer;
+}
